@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 473e23ed57f2f124b9e4890eab10a079
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FireParticles: {fileID: 2360902003172328380, guid: 64d3aa3b9230aac47aa707e651da0af5,
+      type: 3}
+  - CollapseSound: {fileID: 8300000, guid: f4f5783d5afedf54f9544c98bbb0bd73, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
